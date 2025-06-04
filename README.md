@@ -547,6 +547,6 @@ This function generates an avatar color based on the message sender's username. 
 *   `messageForm.addEventListener("submit", send, true)`: Listens for the submission of the chat message form and calls the `send` function.
 
 
-
+![image alt](https://github.com/sainitoper/chat-Application/blob/05f338aa0190b9fc9bacfc54a6a1791049f535f9/Screenshot%20(521).png)
 
 ![image alt](https://github.com/sainitoper/chat-Application/blob/8ba6b599b6736632ed26f2de86b05f43a23ec041/Screenshot%20(520).png)
