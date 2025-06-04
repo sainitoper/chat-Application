@@ -1,3 +1,5 @@
+![Alt Text](image-file-name.png)
+
 Realtime Chat Application using Spring Boot
 ===========================================================
 
