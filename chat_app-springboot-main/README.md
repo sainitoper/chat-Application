@@ -1,4 +1,4 @@
-![Alt Text](Screenshot (520).png)
+![Project Screenshot](Screenshot (520).png)
 
 Realtime Chat Application using Spring Boot
 ===========================================================
